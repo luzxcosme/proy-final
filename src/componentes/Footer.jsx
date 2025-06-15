@@ -13,7 +13,6 @@ export function Footer() {
           <Col md={4}></Col>
           <Col md={4}>
             <h5>💻PROGRAMACION WEB II</h5>
-    
           </Col>
         </Row>
       </Container>
