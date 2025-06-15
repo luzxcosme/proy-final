@@ -1,0 +1,14 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Segoe UI', sans-serif;
+
+}
+.BarraTitulo {
+  background-color: #72e685;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+.titulo-principal {
+  background-color: #06be97;
+  color: white;
+  padding: 40px 20px;
+  margin-bottom: 0;
+}
+body {
+  background-color: #7cbeca;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.container {
+  padding: 5px;
+}
